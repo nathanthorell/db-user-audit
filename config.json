@@ -1,0 +1,8 @@
+{
+  "lastpass_user": "",
+  "lastpass_pass": "",
+  "ssh_host": "SERVER_HOST_NAME",
+  "ssh_port": 22,
+  "ssh_user": "USER_NAME",
+  "ssh_cert": "./ssh/id_rsa"
+}
